@@ -61,7 +61,7 @@
  </a>
  
  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg" alt="dart" width="40" height="40"/> 
+  <img src="https://cdn.githubusercontent.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg" alt="dart" width="40" height="40"/> 
  </a>
  
 </p>
