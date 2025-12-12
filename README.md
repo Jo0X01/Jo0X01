@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Ahmed </h1>
-<h3 align="center"> Full-Stack Developer | Python Developer , from Egypt </h3>
+<h3 align="center"> Flutter Developer (Android/IOS) | Full-Stack Developer | Python Developer , from Egypt </h3>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -34,8 +34,6 @@
 🕵️‍♂️ About Me
 
     🙂 I am Yousef Ahmed
-
-    📍 Im Egyptian and I live in Egypt.
    
     😎 Interested in contributing expertise in mobile development.
 
