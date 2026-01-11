@@ -2,17 +2,6 @@
 <h3 align="center"> Flutter Developer (Android/IOS) | Full-Stack Developer | Python Developer </h3>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/mrpazresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrpaziresh" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/yousef-ahmed-7873211b1/"
- target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrpaziresh" height="30" width="40" /></a>
- 
-</p>
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 
